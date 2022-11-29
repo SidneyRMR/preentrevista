@@ -14,7 +14,7 @@ export default function Pergunta(props) {
             </Head>
             <main className={styles.main}>
                 <h1 className={styles.title}>
-                    Respostas para pré-entrevista {'     '}
+                    Respostas da pré-entrevista {'     '}
                     <a href="/" className={styles.description}>Voltar</a>
 
                 </h1>
